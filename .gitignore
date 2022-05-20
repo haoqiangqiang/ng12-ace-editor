@@ -24,4 +24,3 @@ src/*.d.ts
 src/*.js
 .rpt2_cache
 .angulardoc.json
-ng12-ace-editor
